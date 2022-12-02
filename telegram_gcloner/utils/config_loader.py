@@ -56,6 +56,7 @@ class _Config:
 
         if not os.path.isfile(self._path_to_gclone):
             self._path_to_gclone = shutil.which('gclone')
+            logger.warning(f'Gclone=>>>> {self._path_to_gclone}')
             if not self._path_to_gclone:
                 logger.warning('Gclone Executable was not found in the Drectory.')
                 input("Press Enter to continue...")
