@@ -1,11 +1,11 @@
 # Set app name below, replace APP-NAME
-app = "CloneBot_V2"
+app = "APP_NAME"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
 [env]
-CONFIG_FILE_URL = "https://github.com/ZtupidTS/CloneBot_V2/edit/main/telegram_gcloner/config.ini"
+CONFIG_FILE_URL = "CONFIG_FILE_URL"
 
 # No need to touch below
 
