@@ -1,0 +1,50 @@
+2022-12-02 07:55:46,634 - utils.config_loader - DEBUG - Loading config
+2022-12-02 07:55:46,635 - utils.config_loader - INFO - Found telegram_token: 1997033017:AAGGXDy2EoXLkKLxC2p4wJhJd4WEDgxIsmw
+2022-12-02 07:55:46,635 - utils.config_loader - INFO - Found user_ids: 1048712883
+2022-12-02 07:55:46,635 - utils.config_loader - INFO - Found group_ids: -586615477
+2022-12-02 07:55:46,635 - utils.config_loader - INFO - Found path_to_gclone: ./gclone
+2022-12-02 07:55:46,635 - utils.config_loader - INFO - Found gclone_para_override: 
+2022-12-02 07:55:46,648 - utils.config_loader - WARNING - Gclone=>>>> None
+2022-12-02 07:55:46,651 - utils.config_loader - WARNING - Gclone Executable was not found in the Drectory.
+2022-12-02 07:56:20,256 - utils.config_loader - DEBUG - Loading config
+2022-12-02 07:56:20,257 - utils.config_loader - INFO - Found telegram_token: 1997033017:AAGGXDy2EoXLkKLxC2p4wJhJd4WEDgxIsmw
+2022-12-02 07:56:20,257 - utils.config_loader - INFO - Found user_ids: 1048712883
+2022-12-02 07:56:20,258 - utils.config_loader - INFO - Found group_ids: -586615477
+2022-12-02 07:56:20,258 - utils.config_loader - INFO - Found path_to_gclone: gclone
+2022-12-02 07:56:20,258 - utils.config_loader - INFO - Found gclone_para_override: 
+2022-12-02 07:56:20,271 - utils.config_loader - WARNING - Gclone=>>>> None
+2022-12-02 07:56:20,271 - utils.config_loader - WARNING - Gclone Executable was not found in the Drectory.
+2022-12-02 07:56:32,651 - utils.config_loader - DEBUG - Loading config
+2022-12-02 07:56:32,652 - utils.config_loader - INFO - Found telegram_token: 1997033017:AAGGXDy2EoXLkKLxC2p4wJhJd4WEDgxIsmw
+2022-12-02 07:56:32,652 - utils.config_loader - INFO - Found user_ids: 1048712883
+2022-12-02 07:56:32,652 - utils.config_loader - INFO - Found group_ids: -586615477
+2022-12-02 07:56:32,652 - utils.config_loader - INFO - Found path_to_gclone: gclone
+2022-12-02 07:56:32,652 - utils.config_loader - INFO - Found gclone_para_override: 
+2022-12-02 07:56:32,653 - utils.config_loader - INFO - Found gclone: gclone
+2022-12-02 07:56:32,653 - utils.config_loader - INFO - Found Bot Token: 1997033017:AAGGXDy2EoXLkKLxC2p4wJhJd4WEDgxIsmw
+2022-12-02 07:56:32,670 - __main__ - INFO - loaded handler module: add_group
+2022-12-02 07:56:33,046 - __main__ - INFO - loaded handler module: ban
+2022-12-02 07:56:33,051 - __main__ - INFO - loaded handler module: cancel
+2022-12-02 07:56:33,055 - __main__ - INFO - loaded handler module: choose_folder
+2022-12-02 07:56:33,057 - __main__ - INFO - loaded handler module: contact
+2022-12-02 07:56:33,058 - __main__ - INFO - loaded handler module: get_help
+2022-12-02 07:56:33,060 - __main__ - INFO - loaded handler module: get_id
+2022-12-02 07:56:33,062 - __main__ - INFO - loaded handler module: process_drive_links
+2022-12-02 07:56:33,064 - __main__ - INFO - loaded handler module: sa
+2022-12-02 07:56:33,066 - __main__ - INFO - loaded handler module: start
+2022-12-02 07:56:33,067 - __main__ - INFO - loaded handler module: stop_task
+2022-12-02 07:56:33,069 - __main__ - INFO - loaded handler module: vip
+2022-12-02 07:56:33,073 - __main__ - INFO - loaded handler module: process_message
+2022-12-02 07:56:33,073 - apscheduler.scheduler - INFO - Scheduler started
+2022-12-02 07:56:33,074 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2022-12-02 07:56:33,074 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2022-12-02 07:56:34,685 - handlers.process_message - DEBUG - {'chat': {'type': 'private', 'username': 'msalee2510', 'first_name': 'Sang', 'id': 1048712883, 'last_name': 'Lê'}, 'message_id': 590, 'channel_chat_created': False, 'new_chat_photo': [], 'new_chat_members': [], 'photo': [], 'entities': [{'length': 72, 'type': 'url', 'offset': 0}], 'group_chat_created': False, 'text': 'https://drive.google.com/drive/folders/1BbDzc0ggwhZ3hTyvXMrFluEYoutS9cMb', 'supergroup_chat_created': False, 'date': 1669963586, 'delete_chat_photo': False, 'caption_entities': [], 'from': {'first_name': 'Sang', 'last_name': 'Lê', 'id': 1048712883, 'language_code': 'en', 'username': 'msalee2510', 'is_bot': False}}
+2022-12-02 07:56:34,696 - utils.helper - DEBUG - folder_id: 1BbDzc0ggwhZ3hTyvXMrFluEYoutS9cMb
+2022-12-02 07:56:34,696 - handlers.process_drive_links - DEBUG - Found file000: https://drive.google.com/drive/folders/1BbDzc0ggwhZ3hTyvXMrFluEYoutS9cMb.
+2022-12-02 07:56:34,697 - utils.helper - DEBUG - folder_id: 1BbDzc0ggwhZ3hTyvXMrFluEYoutS9cMb
+2022-12-02 07:56:34,697 - handlers.process_drive_links - DEBUG - Found file000 with folder_id 1BbDzc0ggwhZ3hTyvXMrFluEYoutS9cMb.
+2022-12-02 07:57:01,945 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2022-12-02 07:57:01,946 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2022-12-02 07:57:01,947 - apscheduler.scheduler - DEBUG - Looking for jobs to run
+2022-12-02 07:57:01,947 - apscheduler.scheduler - DEBUG - No jobs; waiting until a job is added
+2022-12-02 07:57:02,148 - telegram.ext.updater - WARNING - Exiting immediately!
